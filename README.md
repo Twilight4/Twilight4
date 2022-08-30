@@ -27,6 +27,7 @@
 <!-- Important Projects -->
 <h3 align="center"> Important Projects </h3>
 
+&emsp;&emsp;&emsp;
 <a href="https://github.com/Twilight4/dotfiles">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=dotfiles&layout=compact&theme=tokyonight" />
 </a>
@@ -40,6 +41,7 @@
 <!-- ###########################################  ########################################### -->
 
 <!-- Skills ( Languages & Tools ) -->
+### Skills ( Languages & Tools ):
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
 [![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.microsoft.com/en-us/windows)
 [![vm-ware](https://img.shields.io/badge/VM-vmware-05122A?style=plastic&logo=vmware&color=informational)](https://www.vmware.com/mena.html)
