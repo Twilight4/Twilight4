@@ -48,17 +48,16 @@
 [![virtual-Box](https://img.shields.io/badge/VM-virtual%20Box-05122A?style=plastic&logo=virtualBox&color=informational)](https://www.virtualbox.org/)
 [![Git](https://img.shields.io/badge/git-Git-05122A?style=plastic&logo=git&color=informational)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/tool-GitHub-05122A?style=plastic&logo=github&&color=informational)](https://github.com/)
-[![bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=informational)](https://www.gnu.org/software/bash/)
-[![PyCharm](https://img.shields.io/badge/jetbrains-pycharm-05122A?style=plastic&logo=pycharm&color=informational)](https://www.jetbrains.com/pycharm/)
-[![powerShell](https://img.shields.io/badge/Shell-powerShell-05122A?style=plastic&logo=powerShell&color=informational)](https://docs.microsoft.com/en-us/powershell/)
 [![Visual Studio Code](https://img.shields.io/badge/tool-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&color=informational)](https://code.visualstudio.com/)
-[![packetTracer](https://img.shields.io/badge/Cisco-packetTracer-05122A?style=plastic&logo=cisco&color=informational)](https://www.netacad.com/)
-[![wireshark](https://img.shields.io/badge/Networking-wireshark-05122A?style=plastic&logo=wireshark&color=informational)](https://www.wireshark.org/)
-[![metasploitable](https://img.shields.io/badge/HackingTools-metasploitable-05122A?style=plastic&logo=metasploitable&color=informational)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
+[![PyCharm](https://img.shields.io/badge/jetbrains-pycharm-05122A?style=plastic&logo=pycharm&color=informational)](https://www.jetbrains.com/pycharm/)
+[![bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=informational)](https://www.gnu.org/software/bash/)
+[![powerShell](https://img.shields.io/badge/Shell-powerShell-05122A?style=plastic&logo=powerShell&color=informational)](https://docs.microsoft.com/en-us/powershell/)
 [![Python](https://img.shields.io/badge/language-Python-05122A?style=plastic&logo=python&color=informational)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/language-JavaScript-05122A?style=plastic&logo=JavaScript&color=informational)](https://www.javascript.com/)
 [![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=plastic&logo=docker&color=informational)](https://www.docker.com/)
-
+[![packetTracer](https://img.shields.io/badge/Cisco-packetTracer-05122A?style=plastic&logo=cisco&color=informational)](https://www.netacad.com/)
+[![wireshark](https://img.shields.io/badge/Networking-wireshark-05122A?style=plastic&logo=wireshark&color=informational)](https://www.wireshark.org/)
+[![metasploitable](https://img.shields.io/badge/HackingTools-metasploitable-05122A?style=plastic&logo=metasploitable&color=informational)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 <!-- Skills ( Languages & Tools ) -->
 
 <!-- ###########################################  ########################################### -->
