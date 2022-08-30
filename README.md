@@ -28,7 +28,7 @@
 <!-- ###########################################  ########################################### -->
 
 <!-- Important Projects -->
-<h3 align="center"> Important Projects </h3>
+<h3 align="left"> Important Projects </h3>
 
 &emsp;&emsp;&nbsp;&nbsp;
 <a href="https://github.com/Twilight4/dotfiles">
