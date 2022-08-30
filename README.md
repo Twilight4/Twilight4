@@ -37,6 +37,17 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=arch-install&layout=compact&theme=tokyonight" />
 </a>
 &emsp;&emsp;&nbsp;&nbsp;
-
-
 <!-- Important Projects -->
+
+<!-- ###########################################  ########################################### -->
+
+<!-- Skills ( Languages & Tools ) -->
+
+<!-- Skills ( Languages & Tools ) -->
+
+<!-- ###########################################  ########################################### -->
+
+<!-- About Me -->
+### I'm an IT Researcher, Passionate About Cyber Security And More Specifically Into Pentesting. I’m currently learning many kinds of PenTesting such as Web Application, Red Teaming, Wireless, Internet Of Things, Social Engineering. I also like Reverse Engineering, Linux Development, Cryptography, Cloud, Programming and so on.
+
+<!-- About Me -->
