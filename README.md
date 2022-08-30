@@ -9,17 +9,15 @@
 
 <!-- Github Stats -->
 <p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=mmsaeed509&theme=darkhub&margin-w=15&margin-h=15&column=8&v=2" alt="Ozil's stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=mmsaeed509&count_private=true&include_all_commits=true&theme=tokyonight" alt="Twilight's stats" /> &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 </p>
 <p align="center">
-  
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Twilight4&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
   
   <img src="https://github.com/Twilight4/Twilight4/blob/snake/snake-dark.svg#gh-light-mode-only"/>
   <img src="https://github.com/Twilight4/Twilight4/blob/snake/snake-dark.svg#gh-dark-mode-only"/>
-  
 </p>
 
 <!-- Github Stats -->
