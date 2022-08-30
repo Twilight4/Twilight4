@@ -49,7 +49,7 @@
 [![virtual-Box](https://img.shields.io/badge/VM-virtual%20Box-05122A?style=plastic&logo=virtualBox&color=informational)](https://www.virtualbox.org/)
 [![Git](https://img.shields.io/badge/git-Git-05122A?style=plastic&logo=git&color=informational)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/tool-GitHub-05122A?style=plastic&logo=github&&color=informational)](https://github.com/)
-[![Neovim](https://img.shields.io/badge/tool-Neovim-05122A?style=plastic&logo=github&&color=informational)](https://neovim.io/)
+[![Neovim](https://img.shields.io/badge/tool-Neovim-05122A?style=plastic&logo=Neovim&&color=informational)](https://neovim.io/)
 [![Visual Studio Code](https://img.shields.io/badge/tool-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&color=informational)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/jetbrains-pycharm-05122A?style=plastic&logo=pycharm&color=informational)](https://www.jetbrains.com/pycharm/)
 [![bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=informational)](https://www.gnu.org/software/bash/)
