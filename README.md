@@ -14,7 +14,6 @@
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Twilight4&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
 </p>
-  &emsp;&emsp;
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twilight4&layout=compact&theme=tokyonight" alt="Twilight4's top language stats" /> 
 </p>
