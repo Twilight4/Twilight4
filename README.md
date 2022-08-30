@@ -20,7 +20,6 @@
   <img src="https://github.com/Twilight4/Twilight4/blob/snake/snake-dark.svg#gh-light-mode-only"/>
   <img src="https://github.com/Twilight4/Twilight4/blob/snake/snake-dark.svg#gh-dark-mode-only"/>
 </p>
-
 <!-- Github Stats -->
 
 <!-- ###########################################  ########################################### -->
@@ -65,10 +64,9 @@
 
 <!-- About Me -->
 ## About Me:
-### I'm an IT Researcher, Passionate About Cyber Security And More Specifically Into Pentesting.
+### I'm an IT self-learning Enthusiast, Passionate About Cyber Security And More Specifically Into Pentesting.
 - I’m currently learning many kinds of PenTesting such as Web Application, Red Teaming, Wireless, Internet Of Things, Social Engineering.
 - I also like Reverse Engineering, Malware Analysis Linux Development, Cryptography, Cloud, coding and so on.
-
 <!-- About Me -->
 
-<!-- ###########################################  ########################################### -->
+<!-- ########################################### END ########################################### -->
