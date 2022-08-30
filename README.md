@@ -36,7 +36,8 @@
 <a href="https://github.com/Twilight4/arch-install">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=arch-install&layout=compact&theme=tokyonight" />
 </a>
-<br/><br/><br/>
 &emsp;&emsp;&nbsp;&nbsp;
+
+</p>
 
 <!-- Important Projects -->
