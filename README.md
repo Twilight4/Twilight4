@@ -9,8 +9,8 @@
 
 <!-- Github Stats -->
 <p align="left">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Twilight4&count_private=true&include_all_commits=true&theme=tokyonight" alt="Twilight4's stats" /> &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmsaeed509&layout=compact&theme=tokyonight" alt="Ozil's top language stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twilight4&layout=compact&theme=tokyonight" alt="Twilight4's top language stats" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Twilight4&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
 </p>
 
 </p>
