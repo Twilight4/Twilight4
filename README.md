@@ -8,8 +8,9 @@
 <!-- ###########################################  ########################################### -->
 
 <!-- Github Stats -->
-
-
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=mmsaeed509&theme=darkhub&margin-w=15&margin-h=15&column=8&v=2" alt="Ozil's stats" />
+</p>
 
 </p>
 <p align="center">
