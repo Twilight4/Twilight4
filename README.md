@@ -28,7 +28,7 @@
 <!-- ###########################################  ########################################### -->
 
 <!-- Important Projects -->
-<h3 align="left"> Important Projects </h3>
+<h3 align="center"> Important Projects </h3>
 
 <a href="https://github.com/Twilight4/dotfiles">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=dotfiles&layout=compact&theme=tokyonight" />
