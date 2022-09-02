@@ -69,7 +69,7 @@
 ## About Me:
 ### I'm an IT self-learning Enthusiast, Passionate About Cyber Security And More Specifically Into Pentesting.
 - I’m currently learning many kinds of PenTesting such as Web Application, Red Teaming, Wireless, Internet Of Things, Social Engineering.
-- I also like Coding, Reverse Engineering, Malware Analysis, Linux Development, Cryptography, Cloud, and so on.
+- I also like Threat Hunting, Coding, Reverse Engineering, Malware Analysis, Linux Development, Cryptography, Cloud, and so on.
 <!-- About Me -->
 
 <!-- ########################################### END ########################################### -->
