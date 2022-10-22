@@ -19,7 +19,22 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twilight4&layout=compact&theme=tokyonight" alt="Twilight4's top language stats" /> 
 </p>
-                                                                                                                                     
+
+<!-- Important Projects -->
+<h3 align="center"> Important Projects </h3>
+
+<a href="https://github.com/Twilight4/dotfiles">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=dotfiles&layout=compact&theme=tokyonight" />
+</a>
+&emsp;&emsp;
+<a href="https://github.com/Twilight4/arch-install">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=arch-install&layout=compact&theme=tokyonight" />
+</a>
+<!-- Important Projects -->
+
+
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <p align="center">
   <img src="https://github.com/Twilight4/Twilight4/blob/snake/snake-dark.svg#gh-light-mode-only"/>
   <img src="https://github.com/Twilight4/Twilight4/blob/snake/snake-dark.svg#gh-dark-mode-only"/>
