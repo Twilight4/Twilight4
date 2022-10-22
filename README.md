@@ -34,22 +34,6 @@
 <!-- Important Projects -->
 
 <!-- ###########################################  ########################################### -->
-&nbsp;
-
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<p align="center">
-  <img src="https://github.com/Twilight4/Twilight4/blob/snake/snake-dark.svg#gh-light-mode-only"/>
-  <img src="https://github.com/Twilight4/Twilight4/blob/snake/snake-dark.svg#gh-dark-mode-only"/>
-</p>
-
-<!-- ###########################################  ########################################### -->
-
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
-<img src="https://activity-graph.herokuapp.com/graph?username=Twilight4&theme=chartreuse-dark" width="100%">
-
-
-<!-- ###########################################  ########################################### -->
 
 <!-- Skills ( Languages & Tools ) -->
 ### Skills (Languages & Tools):
@@ -82,4 +66,20 @@
 - I also like Threat Hunting, Coding, Reverse Engineering, Malware Analysis, Linux Development, Cryptography, and so on.
 <!-- About Me -->
 
+<!-- ###########################################  ########################################### -->
+&nbsp;
+
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<p align="center">
+  <img src="https://github.com/Twilight4/Twilight4/blob/snake/snake-dark.svg#gh-light-mode-only"/>
+  <img src="https://github.com/Twilight4/Twilight4/blob/snake/snake-dark.svg#gh-dark-mode-only"/>
+</p>
+
+<!-- ###########################################  ########################################### -->
+
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
+<img src="https://activity-graph.herokuapp.com/graph?username=Twilight4&theme=chartreuse-dark" width="100%">
+
 <!-- ########################################### END ########################################### -->
+
