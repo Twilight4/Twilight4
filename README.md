@@ -55,3 +55,5 @@
 </details> -->
 
 <!-- ###########################################  ########################################### -->
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
+<img src="https://activity-graph.herokuapp.com/graph?username=D3vil0p3r&theme=chartreuse-dark" width="100%">
