@@ -32,6 +32,7 @@
 </a>
 <!-- Important Projects -->
 
+&nbsp;
 
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
