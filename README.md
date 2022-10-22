@@ -45,15 +45,5 @@
 
 <!-- ###########################################  ########################################### -->
 
-<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
-<!--<h4 align="right">
-<details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
-<p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/trininb/trininb/main/github-metrics.svg">
-</p>
-</details> -->
-
-<!-- ###########################################  ########################################### -->
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
-<img src="https://activity-graph.herokuapp.com/graph?username=D3vil0p3r&theme=chartreuse-dark" width="100%">
+<img src="https://activity-graph.herokuapp.com/graph?username=Twilight4&theme=chartreuse-dark" width="100%">
