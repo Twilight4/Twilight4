@@ -21,9 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twilight4&layout=compact&theme=tokyonight" alt="Twilight4's top language stats" /> 
 </p>
 
-<!--🖼️OCTOCAT-->
-<!-- <p align="left">
+<p align="left">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p> -->
+</p>
 
 <!-- Important Projects -->
 <h3 align="center"> Important Projects </h3>
