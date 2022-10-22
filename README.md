@@ -61,7 +61,7 @@
 
 <!-- About Me -->
 ## About Me:
-### I'm an IT self-learning Enthusiast, Passionate About Cyber Security And More Specifically Into Pentesting.
+### I'm an IT self-learning Enthusiast, Passionate About Cyber Security And Pentesting.
 - I’m currently learning many kinds of PenTesting such as Red Teaming, Web App, Wireless, Mobile, API, IoT, Cloud, Social Engineering etc.
 - I also like Threat Hunting, Coding, Reverse Engineering, Malware Analysis, Linux Development, Cryptography, and so on.
 <!-- About Me -->
@@ -82,4 +82,3 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=Twilight4&theme=chartreuse-dark" width="100%">
 
 <!-- ########################################### END ########################################### -->
-
