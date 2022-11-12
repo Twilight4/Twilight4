@@ -60,10 +60,10 @@
 <!-- ###########################################  ########################################### -->
 
 <!-- About Me -->
-## About Me: [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=PCs,+Systems,+Cybersecurity,+Programming,+Learning+:D)](https://git.io/typing-svg)
+## About Me: 
 ### I'm an IT self-learning Enthusiast, Passionate About Cyber Security And Pentesting.
 - I’m currently learning many kinds of PenTesting such as Red Teaming, Web App, Wireless, Mobile, API, IoT, Cloud, Social Engineering etc.
-- I also like Threat Hunting, Coding, Reverse Engineering, Malware Analysis, Linux Development, Cryptography, and so on.
+- I also like Threat Hunting, Coding, Reverse Engineering, Malware Analysis, Linux Development, Cryptography, and so on. [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=PCs,+Systems,+Cybersecurity,+Programming,+Learning+:D)](https://git.io/typing-svg)
 <!-- About Me -->
 
 <!-- ###########################################  ########################################### -->
