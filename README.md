@@ -84,7 +84,4 @@
 <a href="https://github.com/Twilight4/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=Twilight4&line=00d13b&theme=react-dark&area=true&hide_border=true" width="100%">
 
-
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Twilight4&theme=chartreuse-dark" width="100%">
-
 <!-- ########################################### END ########################################### -->
