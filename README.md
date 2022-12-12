@@ -85,7 +85,4 @@
             
  [![Twilight4's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Twilight4&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
- <!-- <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/asset/github-compact.svg" width="100%">
- <img src="https://activity-graph.herokuapp.com/graph?username=Twilight4&line=00d13b&theme=react-dark&area=true&hide_border=true" width="100%">
-
 <!-- ########################################### END ########################################### -->
