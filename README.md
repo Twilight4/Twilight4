@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=dotfiles&layout=compact&theme=tokyonight" />
 </a>
 &emsp;&emsp;
-<a href="https://github.com/Twilight4/arch-install">
+<a href="https://github.com/Twilight4/alis-iso">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=alis-iso&layout=compact&theme=tokyonight" />
 </a>
 <!-- Important Projects -->
