@@ -63,7 +63,7 @@
 ## About Me: 
 ### I'm an IT self-learning Enthusiast, Passionate About Cyber Security And Pentesting.
 - I’m currently learning miscellaneous kinds of pentests/hacking techniques such as Red Teaming, Web App, API, Cloud, IoT/Wireless, Mobile etc. but primarily focusing on web apps.
-- Im also into Threat Hunting/Intel, Social Engineering, Reverse Engineering, Coding, Malware Analysis, Linux Development, Cryptography and etc. [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF773&width=750&lines=PCs,+Linux,+Cybersecurity,+Coding,+Networking,+Learning+:D)](https://git.io/typing-svg)
+- Im also into Threat Hunting/Intel, Social Engineering, Reverse Engineering, Coding, Malware Analysis, Linux Development and Cryptography. [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF773&width=750&lines=PCs,+Linux,+Cybersecurity,+Coding,+Networking,+Learning+:D)](https://git.io/typing-svg)
 <!-- About Me -->
 
 <!-- ###########################################  ########################################### -->
