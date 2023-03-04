@@ -54,7 +54,6 @@
 [![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=plastic&logo=docker&color=informational)](https://www.docker.com/)
 [![packetTracer](https://img.shields.io/badge/Cisco-packetTracer-05122A?style=plastic&logo=cisco&color=informational)](https://www.netacad.com/)
 [![wireshark](https://img.shields.io/badge/Networking-wireshark-05122A?style=plastic&logo=wireshark&color=informational)](https://www.wireshark.org/)
-[![metasploitable](https://img.shields.io/badge/HackingTools-metasploitable-05122A?style=plastic&logo=metasploitable&color=informational)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 <!-- Skills ( Languages & Tools ) -->
 
 <!-- ###########################################  ########################################### -->
