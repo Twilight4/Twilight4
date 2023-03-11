@@ -54,6 +54,12 @@
 [![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=plastic&logo=docker&color=informational)](https://www.docker.com/)
 [![packetTracer](https://img.shields.io/badge/Cisco-packetTracer-05122A?style=plastic&logo=cisco&color=informational)](https://www.netacad.com/)
 [![wireshark](https://img.shields.io/badge/Networking-wireshark-05122A?style=plastic&logo=wireshark&color=informational)](https://www.wireshark.org/)
+
+**📫 Contact me on [discord](https://discordapp.com/users/Twilight#8787):**
+<!--<p align="left">
+<a href="mailto:twilight.electrolight071@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<!--<a href="https://discord.com" alt="Connect on Discord"> <img src="https://img.shields.io/badge/Discord" /> </a>
+</p>
 <!-- Skills ( Languages & Tools ) -->
 
 <!-- ###########################################  ########################################### -->
