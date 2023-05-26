@@ -80,6 +80,7 @@
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
 <h2 align='left'><i>Activity Graph 📈</i></h2>
 <p align="center">
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=Twilight4">
 <a href="https://github.com/Twilight4/github-readme-activity-graph">
             
  [![Twilight4's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Twilight4&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
