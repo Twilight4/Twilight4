@@ -82,6 +82,6 @@
 <p align="center">
 <a href="https://github.com/Twilight4/github-readme-activity-graph">
             
- [![Twilight4's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Twilight4&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Twilight's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Twilight4&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <!-- ########################################### END ########################################### -->
