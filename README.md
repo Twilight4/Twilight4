@@ -37,7 +37,8 @@
 
 <!-- My DevSetup -->
 ### 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Arch Linux-32302f.svg?&style=flat-square&logo=Archlinux&logoColor=Legion"> 
+[!Linux](https://img.shields.io/badge/Arch Linux-32302f.svg?&style=flat-square&logo=Archlinux&logoColor=Legion)]
+<img src=""> 
 <img src="https://img.shields.io/badge/Kali Linux-32302f.svg?&style=flat-square&logo=KaliLinux&logoColor=white"> 
 <img src="https://img.shields.io/badge/Windows-32302f.svg?&style=flat-square&logo=windows&logoColor=0078D6"> 
 <img src="https://img.shields.io/badge/IOs-32302f.svg?&style=flat-square&logo=apple"> 
