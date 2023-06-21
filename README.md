@@ -37,7 +37,7 @@
 
 <!-- My DevSetup -->
 ### 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Arch Linux-32302f.svg?&style=flat-square&logo=Archlinux&logoColor=Legion"> <img src="https://img.shields.io/badge/Librewolf-32302f.svg?&style=flat-square&logo=librewolf"> <img src="https://img.shields.io/badge/Vim-32302f?style=flat-square&logo=vim&logoColor=019733"> <img src="https://img.shields.io/badge/Terminal-32302f.svg?&style=flat-square&logo=iterm2&logoColor=white"> <img src="https://img.shields.io/badge/Obsidian-32302f.svg?&style=flat-square&logo=Obsidian&logoColor=483699">
+<img src="https://img.shields.io/badge/Arch Linux-32302f.svg?&style=flat-square&logo=Archlinux&logoColor=Legion"> <img src="https://img.shields.io/badge/Librewolf-32302f.svg?&style=flat-square&logo=Librewolf"> <img src="https://img.shields.io/badge/Vim-32302f?style=flat-square&logo=vim&logoColor=019733"> <img src="https://img.shields.io/badge/Terminal-32302f.svg?&style=flat-square&logo=iterm2&logoColor=white"> <img src="https://img.shields.io/badge/Obsidian-32302f.svg?&style=flat-square&logo=Obsidian&logoColor=483699">
 <!-- My DevSetup -->
 
 <!-- ###########################################  ########################################### -->
@@ -48,6 +48,7 @@
 <!-- Skills -->
 
 <!-- ###########################################  ########################################### -->
+
 <!-- About Me -->
 ## About Me
 ### I'm an IT self-learning Enthusiast, Passionate About Cyber Security And Pentesting.
