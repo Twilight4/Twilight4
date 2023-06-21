@@ -48,7 +48,6 @@
 <!-- Skills -->
 
 <!-- ###########################################  ########################################### -->
-
 <!-- About Me -->
 ## About Me
 ### I'm an IT self-learning Enthusiast, Passionate About Cyber Security And Pentesting.
