@@ -37,15 +37,22 @@
 
 <!-- My DevSetup -->
 ### 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Arch Linux-32302f.svg?&style=flat-square&logo=Archlinux&logoColor=Legion"> <img src="https://img.shields.io/badge/Kali Linux-32302f.svg?&style=flat-square&logo=KaliLinux&logoColor=white"> <img src="https://img.shields.io/badge/Windows-32302f.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/IOs-32302f.svg?&style=flat-square&logo=apple"> <img src="https://img.shields.io/badge/Firefox-32302f.svg?&style=flat-square&logo=firefox"> <img src="https://img.shields.io/badge/Vim-32302f?style=flat-square&logo=vim&logoColor=019733"> <img src="https://img.shields.io/badge/VS Code-32302f?style=flat-square&logo=visual-studio&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-32302f.svg?&style=flat-square&logo=iterm2&logoColor=white"> <img src="https://img.shields.io/badge/Obsidian-32302f.svg?&style=flat-square&logo=Obsidian&logoColor=483699"> <img src="https://img.shields.io/badge/Spotify-32302f.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
-[![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
-[![Arch](https://img.shields.io/badge/Distro-Arch-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
+<img src="https://img.shields.io/badge/Arch Linux-32302f.svg?&style=flat-square&logo=Archlinux&logoColor=Legion"> 
+<img src="https://img.shields.io/badge/Kali Linux-32302f.svg?&style=flat-square&logo=KaliLinux&logoColor=white"> 
+<img src="https://img.shields.io/badge/Windows-32302f.svg?&style=flat-square&logo=windows&logoColor=0078D6"> 
+<img src="https://img.shields.io/badge/IOs-32302f.svg?&style=flat-square&logo=apple"> 
+<img src="https://img.shields.io/badge/Firefox-32302f.svg?&style=flat-square&logo=firefox"> 
+<img src="https://img.shields.io/badge/Vim-32302f?style=flat-square&logo=vim&logoColor=019733"> 
+<img src="https://img.shields.io/badge/VS Code-32302f?style=flat-square&logo=visual-studio&logoColor=007ACC"> 
+<img src="https://img.shields.io/badge/Terminal-32302f.svg?&style=flat-square&logo=iterm2&logoColor=white"> 
+<img src="https://img.shields.io/badge/Obsidian-32302f.svg?&style=flat-square&logo=Obsidian&logoColor=483699"> 
+<img src="https://img.shields.io/badge/Spotify-32302f.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
 <!-- My DevSetup -->
 
 <!-- ###########################################  ########################################### -->
 
 <!-- Skills -->
-### Skills and Tools I use
+### ⚙️ Skills and Tools I use
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
 [![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.microsoft.com/en-us/windows)
 [![vm-ware](https://img.shields.io/badge/VM-vmware-05122A?style=plastic&logo=vmware&color=informational)](https://www.vmware.com/mena.html)
