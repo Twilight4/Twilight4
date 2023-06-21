@@ -35,8 +35,17 @@
 
 <!-- ###########################################  ########################################### -->
 
-<!-- Skills ( Languages & Tools ) -->
-### Skills (Languages & Tools):
+<!-- My DevSetup -->
+### 🖥️ My DevSetup
+<img src="https://img.shields.io/badge/Arch Linux-32302f.svg?&style=flat-square&logo=Archlinux&logoColor=Legion"> <img src="https://img.shields.io/badge/Kali Linux-32302f.svg?&style=flat-square&logo=KaliLinux&logoColor=white"> <img src="https://img.shields.io/badge/Windows-32302f.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/IOs-32302f.svg?&style=flat-square&logo=apple"> <img src="https://img.shields.io/badge/Firefox-32302f.svg?&style=flat-square&logo=firefox"> <img src="https://img.shields.io/badge/Vim-32302f?style=flat-square&logo=vim&logoColor=019733"> <img src="https://img.shields.io/badge/VS Code-32302f?style=flat-square&logo=visual-studio&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-32302f.svg?&style=flat-square&logo=iterm2&logoColor=white"> <img src="https://img.shields.io/badge/Obsidian-32302f.svg?&style=flat-square&logo=Obsidian&logoColor=483699"> <img src="https://img.shields.io/badge/Spotify-32302f.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
+[![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
+[![Arch](https://img.shields.io/badge/Distro-Arch-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
+<!-- My DevSetup -->
+
+<!-- ###########################################  ########################################### -->
+
+<!-- Skills -->
+### Skills and Tools I use
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
 [![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.microsoft.com/en-us/windows)
 [![vm-ware](https://img.shields.io/badge/VM-vmware-05122A?style=plastic&logo=vmware&color=informational)](https://www.vmware.com/mena.html)
@@ -54,14 +63,14 @@
 [![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=plastic&logo=docker&color=informational)](https://www.docker.com/)
 [![packetTracer](https://img.shields.io/badge/Cisco-packetTracer-05122A?style=plastic&logo=cisco&color=informational)](https://www.netacad.com/)
 [![wireshark](https://img.shields.io/badge/Networking-wireshark-05122A?style=plastic&logo=wireshark&color=informational)](https://www.wireshark.org/)
-<!-- Skills ( Languages & Tools ) -->
+<!-- Skills -->
 
 <!-- ###########################################  ########################################### -->
 
 <!-- About Me -->
-## About Me: 
+## About Me
 ### I'm an IT self-learning Enthusiast, Passionate About Cyber Security And Pentesting.
-- I’m currently learning miscellaneous kinds of pentests/hacking techniques such as Red Teaming, Web App, API, Cloud, IoT/Wireless, Mobile etc. but primarily focusing on web apps.
+- I’m currently learning miscellaneous types of pentests/hacking techniques such as Red Teaming, Web App, API, Cloud, IoT/Wireless, Mobile etc. but primarily focusing on web apps.
 - Im also into Threat Hunting/Intel, Social Engineering, Reverse Engineering, Coding, Malware Analysis, Linux Development and Cryptography. [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF773&width=750&lines=PCs,+Linux,+Cybersecurity,+Coding,+Networking,+Learning+:D)](https://git.io/typing-svg)
 <!-- About Me -->
 
