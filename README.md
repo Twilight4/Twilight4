@@ -34,7 +34,18 @@
 <!-- Important Projects -->
 
 <!-- ###########################################  ########################################### -->
+<!-- My DevSetup -->
+## 🖥️ My DevSetup
+<img src="https://img.shields.io/badge/Arch Linux-32302f.svg?&style=flat-square&logo=Archlinux&logoColor=Legion"> <img src="https://img.shields.io/badge/Librewolf-32302f.svg?&style=flat-square&logo=Librewolf"> <img src="https://img.shields.io/badge/Vim-32302f?style=flat-square&logo=vim&logoColor=019733"> <img src="https://img.shields.io/badge/Terminal-32302f.svg?&style=flat-square&logo=iterm2&logoColor=white"> <img src="https://img.shields.io/badge/Obsidian-32302f.svg?&style=flat-square&logo=Obsidian&logoColor=483699">
+<!-- My DevSetup -->
 
+<!-- ###########################################  ########################################### -->
+<!-- Skills -->
+## ⚙️ Skills and Tech I use
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,python,docker,aws,cloudflare,emacs,linux,md,neovim,git,github&perline=12)](https://skillicons.dev)
+<!-- Skills -->
+
+<!-- ###########################################  ########################################### -->
 <!-- About Me -->
 ## ⚡️ About Me
 ### I'm an IT self-learning Enthusiast, Passionate About Cyber Security And Pentesting.
@@ -42,19 +53,6 @@
 - Im also into Threat Hunting/Intel, Social Engineering, Reverse Engineering, Coding, Malware Analysis, Linux Development and Cryptography. [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF773&width=750&lines=PCs,+Linux,+Cybersecurity,+Coding,+Networking,+Learning+:D)](https://git.io/typing-svg)
 <!-- About Me -->
 
-<!-- ###########################################  ########################################### -->
-
-<!-- My DevSetup -->
-## 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Arch Linux-32302f.svg?&style=flat-square&logo=Archlinux&logoColor=Legion"> <img src="https://img.shields.io/badge/Librewolf-32302f.svg?&style=flat-square&logo=Librewolf"> <img src="https://img.shields.io/badge/Vim-32302f?style=flat-square&logo=vim&logoColor=019733"> <img src="https://img.shields.io/badge/Terminal-32302f.svg?&style=flat-square&logo=iterm2&logoColor=white"> <img src="https://img.shields.io/badge/Obsidian-32302f.svg?&style=flat-square&logo=Obsidian&logoColor=483699">
-<!-- My DevSetup -->
-
-<!-- ###########################################  ########################################### -->
-
-<!-- Skills -->
-## ⚙️ Skills and Tech I use
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,python,docker,aws,cloudflare,emacs,linux,md,neovim,git,github&perline=12)](https://skillicons.dev)
-<!-- Skills -->
 <!-- ###########################################  ########################################### -->
 &nbsp;
 
@@ -66,7 +64,6 @@
 </p>
 
 <!-- ###########################################  ########################################### -->
-
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
 <h2 align='left'><i>📈 Activity Graph </i></h2>
 <p align="center">
