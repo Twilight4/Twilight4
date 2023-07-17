@@ -45,6 +45,17 @@
 ### I am an IT Offensive Security Self-Taught Enthusiast, Passionate About Cyber Security and Red Teaming.
 - Currently I am specializing in the field of Red Teaming within the domain of offensive IT security which consits of the following areas of pentest: Network, Infrastructure, Active Directory, Physical, Wireless, Social Engineering.
 - I am also leveraging my expertise in: Threat Intelligence, Threat Hunting, Forensics, OPSEC, APTs, Linux and Homelab. [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF773&width=750&lines=PCs,+Linux,+Cybersecurity,+Coding,+Networking,+Learning+:D)](https://git.io/typing-svg)
+
+###  Capture the Flag (CTF) Profiles
+<div style="display: flex;">
+   <a href="https://tryhackme.com/p/twilightt"><img src="https://tryhackme.com/badge/940984" alt="TryHackMe"></a>
+   <a href="https://www.hackthebox.eu/profile/twilightt"><img src="https://www.hackthebox.eu/badge/image/1431815" alt="HackTheBox"></a>
+</div>
+
+<!--
+   <a href="https://ctftime.org/user/twilightt"><img src="https://ctftime.org/user/id" alt="CTFtime"></a>
+-->
+
 <!-- About Me -->
 
 <!-- ###########################################  ########################################### -->
