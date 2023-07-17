@@ -39,23 +39,24 @@
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,python,docker,aws,cloudflare,emacs,linux,md,neovim,git,github,linkedin&perline=13&theme=dark)](https://skillicons.dev)
 <!-- Skills -->
 
+<!-- Profiles -->
+## 🏁 Capture the Flag (CTF) Profiles
+<div style="display: flex;">
+   <a href="https://tryhackme.com/p/twilightt"><img src="https://tryhackme-badges.s3.amazonaws.com/twilightt.png" alt="TryHackMe"></a>
+   <a href="https://app.hackthebox.com/profile/1431815"><img src="https://www.hackthebox.eu/badge/image/1431815" alt="HackTheBox"></a>
+</div>
+<!-- Profiles -->
+
+<!--
+   <a href="https://ctftime.org/user/twilightt"><img src="https://ctftime.org/user/id" alt="CTFtime"></a>
+-->
+
 <!-- ###########################################  ########################################### -->
 <!-- About Me -->
 ## ⚡️ About Me
 ### I am an IT Offensive Security Self-Taught Enthusiast, Passionate About Cyber Security and Red Teaming.
 - Currently I am specializing in the field of Red Teaming within the domain of offensive IT security which consits of the following areas of pentest: Network, Infrastructure, Active Directory, Physical, Wireless, Social Engineering.
 - I am also leveraging my expertise in: Threat Intelligence, Threat Hunting, Forensics, OPSEC, APTs, Linux and Homelab. [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF773&width=750&lines=PCs,+Linux,+Cybersecurity,+Coding,+Networking,+Learning+:D)](https://git.io/typing-svg)
-
-### 🏁 Capture the Flag (CTF) Profiles
-<div style="display: flex;">
-   <a href="https://tryhackme.com/p/twilightt"><img src="https://tryhackme-badges.s3.amazonaws.com/twilightt.png" alt="TryHackMe"></a>
-   <a href="https://app.hackthebox.com/profile/1431815"><img src="https://www.hackthebox.eu/badge/image/1431815" alt="HackTheBox"></a>
-</div>
-
-<!--
-   <a href="https://ctftime.org/user/twilightt"><img src="https://ctftime.org/user/id" alt="CTFtime"></a>
--->
-
 <!-- About Me -->
 
 <!-- ###########################################  ########################################### -->
