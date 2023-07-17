@@ -48,9 +48,12 @@
 
 ### 🏁 Capture the Flag (CTF) Profiles
 <div style="display: flex;">
-   <a href="https://tryhackme.com/p/twilightt"><script src="https://tryhackme.com/badge/940984"></script></a>
+   <a href="https://tryhackme.com/p/twilightt"><img src="https://tryhackme-badges.s3.amazonaws.com/twilightt.png" alt="TryHackMe"></a>
    <a href="https://www.hackthebox.eu/profile/twilightt"><img src="https://www.hackthebox.eu/badge/image/1431815" alt="HackTheBox"></a>
 </div>
+
+
+[![twilightt tryhackme stats](<script src="https://tryhackme.com/badge/940984"></script>)][tryhackme]
 
 <!--
    <a href="https://ctftime.org/user/twilightt"><img src="https://ctftime.org/user/id" alt="CTFtime"></a>
