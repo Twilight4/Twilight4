@@ -45,9 +45,15 @@
    <a href="https://tryhackme.com/p/twilightt"><img src="https://tryhackme-badges.s3.amazonaws.com/twilightt.png" alt="TryHackMe"></a>
    <a href="https://app.hackthebox.com/profile/1431815"><img src="https://www.hackthebox.eu/badge/image/1431815" alt="HackTheBox"></a>
 </div>
+
+### 🎯 Skill Matrix
+<a href="https://tryhackme.com/p/twilightt">
+  <img src="skills.svg" alt="Skills" >
+</a>
 <!-- Profiles -->
 
 <!--
+   # Update tryhackme profile badge image and skills matrix screenshot in svg format
    <a href="https://ctftime.org/user/twilightt"><img src="https://ctftime.org/user/id" alt="CTFtime"></a>
 -->
 
