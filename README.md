@@ -48,7 +48,7 @@
 
 ### 🏁 Capture the Flag (CTF) Profiles
 <div style="display: flex;">
-   <a href="https://tryhackme.com/p/twilightt"><script src="https://tryhackme.com/badge/940984"> alt="TryHackMe"</script> </a>
+   <a href="https://tryhackme.com/p/twilightt"><script src="https://tryhackme.com/badge/940984"></script></a>
    <a href="https://www.hackthebox.eu/profile/twilightt"><img src="https://www.hackthebox.eu/badge/image/1431815" alt="HackTheBox"></a>
 </div>
 
