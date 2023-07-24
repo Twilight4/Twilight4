@@ -43,7 +43,6 @@
 ## 🏁 Capture the Flag (CTF) Profiles
 <div style="display: flex;">
    <a href="https://tryhackme.com/p/twilightt"><img src="https://tryhackme-badges.s3.amazonaws.com/twilightt.png" alt="TryHackMe"></a>
-   <img src="https://tryhackme-badges.s3.amazonaws.com/twilightt.png" alt="TryHackMe">
 </div>
 
 <a href="https://tryhackme.com/p/twilightt">
