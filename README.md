@@ -59,7 +59,7 @@
 ## ⚡️ About Me
 ### I am an IT Offensive Security Self-Taught Enthusiast, Passionate About Cyber Security and Red Teaming.
 - Currently I am specializing in the field of Red Teaming within the domain of offensive IT security which consits of the following areas of pentest: Network (Infrastructure), Active Directory, Physical, Wireless (IoT), Social Engineering.
-- I am also leveraging my expertise in: Threat Intelligence, Threat Hunting, Digital Forensics, OPSEC, APTs, Linux and Homelab. [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF773&width=750&lines=Linux,+Cybersecurity,+Coding,+Networking,+Money+Laundering+(jk).)](https://git.io/typing-svg)
+- I am also leveraging my expertise in: Threat Intelligence, Threat Hunting, Digital Forensics, OSINT Investigations, OPSEC, APTs, Linux and Homelab. [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF773&width=750&lines=Linux,+Cybersecurity,+Coding,+Networking,+Money+Laundering+(jk).)](https://git.io/typing-svg)
 <!-- About Me -->
 
 <!-- ###########################################  ########################################### -->
