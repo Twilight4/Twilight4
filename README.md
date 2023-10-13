@@ -36,7 +36,7 @@
 <!-- ###########################################  ########################################### -->
 <!-- Skills -->
 ## 🎯 Skills and Tech I use
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,python,docker,aws,cloudflare,emacs,linux,md,neovim,git,github,linkedin&perline=13&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,python,docker,aws,cloudflare,emacs,linux,git,github,linkedin&perline=13&theme=dark)](https://skillicons.dev)
 <!-- Skills -->
 
 <!-- Profiles -->
