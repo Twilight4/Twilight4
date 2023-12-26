@@ -28,8 +28,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=dotfiles&layout=compact&theme=tokyonight" />
 </a>
 &emsp;&emsp;
-<a href="https://github.com/Twilight4/quiver-arch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=quiver-arch&layout=compact&theme=tokyonight" />
+<a href="https://github.com/Twilight4/nobility">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=nobility&layout=compact&theme=tokyonight" />
 </a>
 <!-- Important Projects -->
 
