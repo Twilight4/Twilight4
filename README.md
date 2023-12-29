@@ -55,7 +55,7 @@
 <!-- Profiles -->
 
 <!-- ###########################################  ########################################### -->
-<!-About Me -->
+<!--About Me -->
 ## 👨‍💻 About Me
 ### I am an Offensive Security Self-Taught Enthusiast, Passionate About Cyber Security and Red Teaming.
 - Currently I am specializing in the field of Red Teaming/Network Pentesting within the domain of offensive security which consists of the following types of assessments: External/Internal Network (Infrastructure), Active Directory, Social Engineering, Wireless, Physical.
