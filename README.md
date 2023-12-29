@@ -56,7 +56,7 @@
 
 <!-- ###########################################  ########################################### -->
 <!-- About Me -->
-## About Me
+## 👨‍💻 AAbout Me
 ### I am an IT Offensive Security Self-Taught Enthusiast, Passionate About Cyber Security and Red Teaming.
 - Currently I am specializing in the field of Red Teaming/Network Pentesting within the domain of offensive security which consits of the following types of assessments: External/Internal Network (Infrastructure), Active Directory, Social Engineering, Wireless, Physical.
 - I am particularly leveraging my expertise in: Threat Intelligence, OSINT Investigations, Linux, Operational Security (OPSEC) and also Forensics. [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF773&width=750&lines=Linux,+Cybersecurity,+Coding,+Networking,+Money+Laundering+(jk).)](https://git.io/typing-svg)
@@ -74,8 +74,7 @@
 
 <!-- ###########################################  ########################################### -->
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
-## 📈 Activity Grap
-<h2 align='left'><i>📈 Activity Graph </i></h2>
+## 📈 Activity Graph
 <p align="center">
 <a href="https://github.com/Twilight4/github-readme-activity-graph">
             
