@@ -74,6 +74,7 @@
 
 <!-- ###########################################  ########################################### -->
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
+## 📈 Activity Grap
 <h2 align='left'><i>📈 Activity Graph </i></h2>
 <p align="center">
 <a href="https://github.com/Twilight4/github-readme-activity-graph">
