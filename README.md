@@ -58,8 +58,8 @@
 <!--About Me -->
 ## 👨‍💻 [About Me](https://linktr.ee/twilight8)
 ### I am an offensive security self-taught enthusiast, passionate about cybersecurity and Red Teaming.
-- I am specializing in the field of Red Teaming/Network Pentesting within the domain of offensive security which consists of the following types of assessments: External/Internal Network (Infrastructure), Active Directory (AD), Social Engineering (SE), Wireless, Physical.
-- I am also leveraging my expertise in: Cyber Threat Intelligence (CTI), OSINT Investigations, APTs, Linux, Operational Security (OPSEC) and Digital Forensics. 
+- I am specializing in the field of Red Teaming/Network Pentesting within the domain of offensive security which consists of the following assessments types: External/Internal Network (Infrastructure), Active Directory (AD), Social Engineering (SE), Wireless and Physical.
+- I am also leveraging my expertise in: Cyber Threat Intelligence (CTI), OSINT Investigations, Black Box Testing, APTs, Linux and Operational Security (OPSEC). 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF773&width=750&lines=Cybersecurity,+Linux,+Coding,+Networking,+Privacy,+Freedom.)](https://git.io/typing-svg)
 <!-- About Me -->
 
