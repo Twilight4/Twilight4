@@ -45,9 +45,9 @@
   <img src="https://www.hackthebox.eu/badge/image/1431815" alt="HackTheBox">
 </a>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<div style="display: flex;">
-   <a href="https://tryhackme.com/p/twilightt"><img src="https://tryhackme-badges.s3.amazonaws.com/twilightt.png" alt="TryHackMe"></a>
-</div>
+<a href="https://tryhackme.com/p/twilightt">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/twilightt.png" alt="TryHackMe">
+</a>
 
 <a href="https://tryhackme.com/p/twilightt">
   <img src="skills.svg" alt="Skills">
