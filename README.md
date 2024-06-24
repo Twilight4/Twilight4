@@ -41,9 +41,12 @@
 
 <!-- Profiles -->
 ## 🏁 Capture the Flag (CTF) Profiles
+
+<div style="display: flex;">
 <a href="https://app.hackthebox.com/profile/1431815">
   <img src="https://www.hackthebox.eu/badge/image/1431815" alt="HackTheBox">
 </a>
+</div>
 &emsp;&emsp;
 <div style="display: flex;">
    <a href="https://tryhackme.com/p/twilightt"><img src="https://tryhackme-badges.s3.amazonaws.com/twilightt.png" alt="TryHackMe"></a>
