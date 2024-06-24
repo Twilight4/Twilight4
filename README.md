@@ -48,10 +48,7 @@
 <a href="https://tryhackme.com/p/twilightt">
   <img src="skills.svg" alt="Skills">
 </a>
-<!--
    <a href="https://app.hackthebox.com/profile/1431815"><img src="https://www.hackthebox.eu/badge/image/1431815" alt="HackTheBox"></a>
-   <a href="https://ctftime.org/user/twilightt"><img src="https://ctftime.org/user/id" alt="CTFtime"></a>
--->
 <!-- Profiles -->
 
 <!-- ###########################################  ########################################### -->
