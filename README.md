@@ -23,8 +23,8 @@
 </p>-->
 
 <!-- Important Projects -->
-<h3 align="center"> Important Projects </h3>
-
+<!--<h3 align="center"> Important Projects </h3>-->
+## Important Projects
 <a href="https://github.com/Twilight4/dotfiles">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=dotfiles&layout=compact&theme=tokyonight" />
 </a>
@@ -36,12 +36,12 @@
 
 <!-- ###########################################  ########################################### -->
 <!-- Skills -->
-## 🎯 Skills and Tech I use
+## Skills and Tech I use
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,docker,aws,emacs,linux,git,github,linkedin&perline=13&theme=dark)](https://skillicons.dev)
 <!-- Skills -->
 
 <!-- Profiles -->
-## 🏁 Capture the Flag (CTF) Profiles
+## Capture the Flag (CTF) Profiles
 
 <a href="https://tryhackme.com/p/twilightt">
   <img src="https://tryhackme-badges.s3.amazonaws.com/twilightt.png" alt="TryHackMe">
