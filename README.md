@@ -36,7 +36,7 @@
 
 <!-- ###########################################  ########################################### -->
 <!-- Skills -->
-## Skills and Tech I use
+## Skills and Tech
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,docker,aws,emacs,linux,git,github,linkedin&perline=13&theme=dark)](https://skillicons.dev)
 <!-- Skills -->
 
