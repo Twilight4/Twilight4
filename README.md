@@ -57,28 +57,28 @@
 
 <!-- ###########################################  ########################################### -->
 <!--About Me -->
-## 👨‍💻 [About Me](https://linktr.ee/twilight8)
+<!--## 👨‍💻 [About Me](https://linktr.ee/twilight8)
 ### I am an offensive security self-taught enthusiast, passionate about cybersecurity and Red Teaming.
 - I am specializing in the field of Red Teaming/Network Pentesting within the domain of offensive security which consists of the following assessments types: External/Internal Network (Infrastructure), Active Directory (AD), Social Engineering (SE), Wireless and Physical.
 - I am also leveraging my expertise in: Cyber Threat Intelligence (CTI), OSINT Investigations, Black Box Testing, APTs, Linux and Operational Security (OPSEC). 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF773&width=750&lines=Cybersecurity,+Linux,+Coding,+Networking,+Privacy,+Freedom.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF773&width=750&lines=Cybersecurity,+Linux,+Coding,+Networking,+Privacy,+Freedom.)](https://git.io/typing-svg)<--
 <!-- About Me -->
 
 <!-- ###########################################  ########################################### -->
-&nbsp;
+<!--&nbsp;
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <p align="center">
   <img src="https://github.com/Twilight4/Twilight4/blob/snake/snake-dark.svg#gh-light-mode-only"/>
   <img src="https://github.com/Twilight4/Twilight4/blob/snake/snake-dark.svg#gh-dark-mode-only"/>
-</p>
+</p><--
 
 <!-- ###########################################  ########################################### -->
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
-## 📈 Activity Graph
+<!--## 📈 Activity Graph
 <p align="center">
 <a href="https://github.com/Twilight4/github-readme-activity-graph">
             
- [![Twilight's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Twilight4&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Twilight's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Twilight4&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
  
 <!-- ########################################### END ########################################### -->
