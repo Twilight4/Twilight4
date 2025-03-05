@@ -24,14 +24,14 @@
 
 <!-- Important Projects -->
 <!--<h3 align="center"> Important Projects </h3>-->
-<!--## Important Projects
+## Important Projects
 <a href="https://github.com/Twilight4/dotfiles">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=dotfiles&layout=compact&theme=tokyonight" />
 </a>
 &emsp;&emsp;
 <a href="https://github.com/Twilight4/nobility">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=nobility&layout=compact&theme=tokyonight" />
-</a>-->
+</a>
 <!-- Important Projects -->
 
 <!-- ###########################################  ########################################### -->
@@ -76,10 +76,10 @@
 
 <!-- ###########################################  ########################################### -->
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
-<!--## 📈 Activity Graph
+## 📈 Activity Graph
 <p align="center">
 <a href="https://github.com/Twilight4/github-readme-activity-graph">
             
- [![Twilight's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Twilight4&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+ [![Twilight's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Twilight4&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <!-- ########################################### END ########################################### -->
