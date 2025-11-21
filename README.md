@@ -30,7 +30,7 @@
 </a>
 &emsp;&emsp;
 <a href="https://github.com/Twilight4/devops-k8s-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=nobility&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=devops-k8s-project&layout=compact&theme=tokyonight" />
 </a>
 <!-- Important Projects -->
 
