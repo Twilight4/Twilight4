@@ -20,7 +20,7 @@
 
 <!-- Important Projects -->
 <!--<h3 align="center"> Important Projects </h3>-->
-### Some of my public repositories:
+## Some of my public repositories
 - **[Kubernetes 3 microservices setup - Twilight4/devops-k8s-project](https://github.com/Twilight4/devops-k8s-project)**
 - **[Terraform 3-layer cloud infrastructure on Azure - Twilight4/azure-infra-setup](https://github.com/Twilight4/azure-infra-setup)**
 - **[CI pipeline for building/testing and pushing docker images - Twilight4/ci-pipeline](https://github.com/Twilight4/ci-pipeline)**
