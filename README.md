@@ -1,8 +1,8 @@
 <!--About Me -->
 ## 👨‍💻 About Me
-### I'm a junior DevOps engineer in training, passionate about cloud infrastructure and automation.
-- I'm currently building my skills in AWS, Kubernetes, Terraform, Docker, and CI/CD pipelines.
-- I'm developing projects that strengthen my understanding of scalable, reliable, and automated systems.
+#### I'm a junior DevOps engineer in training, passionate about cloud infrastructure and automation
+- I'm currently building my skills in **AWS**, **Kubernetes**, **Terraform**, **Docker**, and **CI/CD pipelines**.
+- I'm developing projects that strengthen my understanding of **scalable**, **reliable**, and **automated** systems.
 <!-- About Me -->
 
 <!-- Skills -->
