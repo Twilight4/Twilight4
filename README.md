@@ -26,8 +26,8 @@
 - **[CI pipeline for building/testing and pushing docker images - Twilight4/ci-pipeline](https://github.com/Twilight4/ci-pipeline)**
 - **[More advanced CI pipeline fork - Twilight4/devops-directive-github-actions-course](https://github.com/Twilight4/devops-directive-github-actions-course)**
 - **[Personal dotfiles for Hyprland - Twilight4/dotfiles](https://github.com/Twilight4/dotfiles)**
-- **[Pentesing framework - zsh plugin - Twilight4/nobility](https://github.com/Twilight4/nobility)**
-- **[Automated debian trixie install with dotfiles - Twilight4/debian-setup](https://github.com/Twilight4/debian-setup)**
+- **[Pentesing framework (zsh plugin) - Twilight4/nobility](https://github.com/Twilight4/nobility)**
+- **[Automated Hyprland install for Debian trixie/SID - Twilight4/debian-setup](https://github.com/Twilight4/debian-setup)**
 
 <!-- Important Projects -->
 
