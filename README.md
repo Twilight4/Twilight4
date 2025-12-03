@@ -25,7 +25,7 @@
 <!-- Important Projects -->
 <!--<h3 align="center"> Important Projects </h3>-->
 ## Important Projects
-<a href="https://github.com/Twilight4/dotfiles">
+<a href="https://github.com/Twilight4/azure-infra-setup">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=dotfiles&layout=compact&theme=tokyonight" />
 </a>
 &emsp;&emsp;
@@ -41,7 +41,7 @@
 <!-- Skills -->
 
 <!-- Profiles -->
-## Capture the Flag (CTF) Profiles
+<!--## Capture the Flag (CTF) Profiles
 
 <a href="https://tryhackme.com/p/twilightt">
   <img src="https://tryhackme-badges.s3.amazonaws.com/twilightt.png" alt="TryHackMe">
@@ -49,7 +49,7 @@
 
 <a href="https://tryhackme.com/p/twilightt">
   <img src="skills.svg" alt="Skills">
-</a>
+</a> -->
 <!-- Profiles -->
 
 <!-- ###########################################  ########################################### -->
