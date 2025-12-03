@@ -1,3 +1,10 @@
+<!--About Me -->
+## 👨‍💻 About Me
+### I'm a junior DevOps engineer in training, passionate about cloud infrastructure and automation.
+- I'm currently building my skills in AWS, Kubernetes, Terraform, Docker, and CI/CD pipelines.
+- I'm developing projects that strengthen my understanding of scalable, reliable, and automated systems.
+<!-- About Me -->
+
 <!-- Skills -->
 ## 🛠️ Skills and Tech
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,bash,git,github,githubactions,gitlab,docker,aws,md,nginx,prometheus,terraform,kubernetes,jenkins,ansible,emacs,neovim&perline=13&theme=dark)](https://skillicons.dev)
@@ -14,18 +21,10 @@
 - **[Automated Hyprland install for Debian trixie/SID - Twilight4/debian-setup](https://github.com/Twilight4/debian-setup)**
 <!-- Important Projects -->
 
-<!-- ###########################################  ########################################### -->
-<!--About Me -->
-## 👨‍💻 About Me
-### I'm a junior DevOps engineer in training, passionate about cloud infrastructure and automation.
-- I'm currently building my skills in AWS, Kubernetes, Terraform, Docker, and CI/CD pipelines.
-- I'm developing projects that strengthen my understanding of scalable, reliable, and automated systems.
-<!-- About Me -->
-
-<!-- ###########################################  ########################################### -->
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
+<!-- Activity Graph -->
 ## 📈 Activity Graph
 <p align="center">
 <a href="https://github.com/Twilight4/github-readme-activity-graph">
             
  [![Twilight's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Twilight4&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Activity Graph -->
