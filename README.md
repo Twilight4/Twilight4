@@ -9,10 +9,6 @@
 <!-- ###########################################  ########################################### -->
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/Twilight4/github-readme-stats -->
 <!--<h3 align="center"> Github Stats </h3>-->
-<!--
-            &nbsp; -> space
-            &emsp; -> 4x(&nbsp;)
--->
 
 <!--<p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Twilight4&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
@@ -24,14 +20,15 @@
 
 <!-- Important Projects -->
 <!--<h3 align="center"> Important Projects </h3>-->
-## Important Projects
-<a href="https://github.com/Twilight4/azure-infra-setup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=dotfiles&layout=compact&theme=tokyonight" />
-</a>
-&emsp;&emsp;
-<a href="https://github.com/Twilight4/devops-k8s-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight4&repo=devops-k8s-project&layout=compact&theme=tokyonight" />
-</a>
+### Some of my public repositories:
+- **[Kubernetes 3 microservices setup - Twilight4/devops-k8s-project](https://github.com/Twilight4/devops-k8s-project)**
+- **[Terraform 3-layer cloud infrastructure on Azure - Twilight4/azure-infra-setup](https://github.com/Twilight4/azure-infra-setup)**
+- **[CI pipeline for building/testing and pushing docker images - Twilight4/ci-pipeline](https://github.com/Twilight4/ci-pipeline)**
+- **[More advanced CI pipeline fork - Twilight4/devops-directive-github-actions-course](https://github.com/Twilight4/devops-directive-github-actions-course)**
+- **[Personal dotfiles for Hyprland - Twilight4/dotfiles](https://github.com/Twilight4/dotfiles)**
+- **[Pentesing framework - zsh plugin - Twilight4/nobility](https://github.com/Twilight4/nobility)**
+- **[Automated debian trixie install with dotfiles - Twilight4/debian-setup](https://github.com/Twilight4/debian-setup)**
+
 <!-- Important Projects -->
 
 <!-- ###########################################  ########################################### -->
@@ -40,35 +37,20 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,bash,git,github,githubactions,gitlab,docker,aws,md,nginx,prometheus,terraform,kubernetes,jenkins,ansible,emacs,neovim&perline=13&theme=dark)](https://skillicons.dev)
 <!-- Skills -->
 
-<!-- Profiles -->
-<!--## Capture the Flag (CTF) Profiles
-
-<a href="https://tryhackme.com/p/twilightt">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/twilightt.png" alt="TryHackMe">
-</a>
-
-<a href="https://tryhackme.com/p/twilightt">
-  <img src="skills.svg" alt="Skills">
-</a> -->
-<!-- Profiles -->
-
 <!-- ###########################################  ########################################### -->
 <!--About Me -->
 <!--## 👨‍💻 [About Me](https://linktr.ee/twilight8)
-### I am an offensive security self-taught enthusiast, passionate about cybersecurity and Red Teaming.
-- I am specializing in the field of Red Teaming/Network Pentesting within the domain of offensive security which consists of the following assessments types: External/Internal Network (Infrastructure), Active Directory (AD), Social Engineering (SE), Wireless and Physical.
-- I am also leveraging my expertise in: Cyber Threat Intelligence (CTI), OSINT Investigations, Black Box Testing, APTs, Linux and Operational Security (OPSEC). 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF773&width=750&lines=Cybersecurity,+Linux,+Coding,+Networking,+Privacy,+Freedom.)](https://git.io/typing-svg)-->
+### 
 <!-- About Me -->
 
 <!-- ###########################################  ########################################### -->
-<!--&nbsp;
+&nbsp;
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <p align="center">
   <img src="https://github.com/Twilight4/Twilight4/blob/snake/snake-dark.svg#gh-light-mode-only"/>
   <img src="https://github.com/Twilight4/Twilight4/blob/snake/snake-dark.svg#gh-dark-mode-only"/>
-</p>-->
+</p>
 
 <!-- ###########################################  ########################################### -->
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
