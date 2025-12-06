@@ -13,7 +13,7 @@
 <!-- Important Projects -->
 ## 📌 Some of my public repositories
 - **[Kubernetes 3 microservices setup - Twilight4/devops-k8s-project](https://github.com/Twilight4/devops-k8s-project)**
-- **[Terraform 3-layer cloud infrastructure on Azure - Twilight4/azure-infra-setup](https://github.com/Twilight4/azure-infra-setup)**
+- **[Terraform simple cloud infrastructure setup on Azure - Twilight4/azure-infra-setup](https://github.com/Twilight4/azure-infra-setup)**
 - **[CI pipeline for building/testing and pushing docker images - Twilight4/ci-pipeline](https://github.com/Twilight4/ci-pipeline)**
 - **[More advanced CI pipeline fork - Twilight4/devops-directive-github-actions-course](https://github.com/Twilight4/devops-directive-github-actions-course)**
 - **[Personal dotfiles for Hyprland - Twilight4/dotfiles](https://github.com/Twilight4/dotfiles)**
