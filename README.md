@@ -7,7 +7,7 @@
 
 <!-- Skills -->
 ## 🛠️ Skills and Tech
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,bash,git,github,githubactions,gitlab,docker,aws,md,nginx,prometheus,terraform,kubernetes,jenkins,ansible,emacs,neovim&perline=13&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,github,githubactions,gitlab,docker,aws,azure,md,nginx,prometheus,terraform,kubernetes,emacs,neovim&perline=13&theme=dark)](https://skillicons.dev)
 <!-- Skills -->
 
 <!-- Important Projects -->
