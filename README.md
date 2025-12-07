@@ -12,6 +12,7 @@
 
 <!-- Important Projects -->
 ## 📌 Some of my public repositories
+- **[Cloud-Native Movie Review Platform - Twilight4/full-devops-cycle-project](https://github.com/Twilight4/full-devops-cycle-project)**
 - **[Kubernetes 3 microservices setup - Twilight4/devops-k8s-project](https://github.com/Twilight4/devops-k8s-project)**
 - **[Terraform simple cloud infrastructure setup on Azure - Twilight4/azure-infra-setup](https://github.com/Twilight4/azure-infra-setup)**
 - **[CI pipeline for building/testing and pushing docker images - Twilight4/ci-pipeline](https://github.com/Twilight4/ci-pipeline)**
