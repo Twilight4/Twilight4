@@ -1,7 +1,7 @@
 <!--About Me -->
 ## 👨‍💻 About Me
 #### I'm a DevOps apprentice, passionate about cloud infrastructure and automation
-- I'm currently building my skills in **Networking**, **AWS/GCP**, **Terraform**, **Kubernetes**, **Docker**, and **Github Actions**.
+- I'm currently building my skills in **Networking**, **Linux**, **AWS/GCP**, **Terraform**, **AI**, **Kubernetes**, **Docker**, and **Github Actions**.
 - I'm developing projects that strengthen my understanding of **scalable**, **reliable**, and **automated** systems.
 <!-- About Me -->
 
