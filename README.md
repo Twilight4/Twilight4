@@ -13,7 +13,7 @@
 <!-- Important Projects -->
 ## 📌 Some of my public repositories
 - **[Self-hosted, containerized AI infrastructure platform - Twilight4/Local-LLM-Hub](https://github.com/Twilight4/Local-LLM-Hub)**
-- **[N8n Google Sheets Follow-up Automation](https://github.com/Twilight4/n8n-follow-up-automation)**
+- **[N8n Google Sheets Follow-up Automation - Twilight4/n8n-follow-up-automation](https://github.com/Twilight4/n8n-follow-up-automation)**
 - **[Cloud-Native Movie Review Platform (Full DevOps lifecycle) - Twilight4/movie-review-platform](https://github.com/Twilight4/movie-review-platform)**
 - **[Kubernetes 3 microservices setup - Twilight4/devops-k8s-project](https://github.com/Twilight4/devops-k8s-project)**
 - **[Terraform simple cloud infrastructure setup on Azure - Twilight4/azure-infra-setup](https://github.com/Twilight4/azure-infra-setup)**
